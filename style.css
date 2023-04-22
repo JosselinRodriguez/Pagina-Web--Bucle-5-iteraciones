@@ -1,0 +1,48 @@
+    /* ESTILOS GENERALES */
+    
+    body {
+        background-image: url(calculos.jpg);
+        background-repeat: repeat;
+    }
+    
+    .EJERCICIOS h1 {
+        font-size: 30px;
+        margin: 0px;
+    }
+    
+    input[type="number"] {
+        padding: 5px;
+        border-radius: 5px;
+        border: 1px solid #cccccc;
+        font-size: 20px;
+    }
+    
+    .ejercicios {
+        width: 800px;
+        margin: 70px auto;
+        background-color: #f5f5f5;
+        border: 1px solid #cccccc;
+        border-radius: 5px;
+        padding: 40px;
+        box-shadow: 0px 0px 20px #CCC;
+        text-align: center;
+    }
+    
+    button {
+        background-color: #4c9baf;
+        color: #FFF;
+        border-radius: 5px;
+        border: none;
+        padding: 20px 30px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    
+    .Respuesta {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    
+    .input {
+        margin-bottom: 50px;
+    }
